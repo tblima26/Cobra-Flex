@@ -1,0 +1,10 @@
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+}
+
+/* Define a largura máxima do container central */
+.card-custom {
+  width: 100%;
+  max-width: 400px;
+}
